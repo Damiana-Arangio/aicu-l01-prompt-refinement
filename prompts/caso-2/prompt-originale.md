@@ -1,0 +1,1 @@
+Aggiungi un messaggio carino quando non ci sono ticket aperti.
