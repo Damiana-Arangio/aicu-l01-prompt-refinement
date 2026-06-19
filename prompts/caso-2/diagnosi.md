@@ -1,5 +1,5 @@
 
-## Diagnosi Operativa
+## Diagnosi senza AI
 
 ## Contesto
 **Quale informazione l'AI non può conoscere da sola?**
