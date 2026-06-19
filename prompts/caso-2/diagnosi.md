@@ -7,7 +7,7 @@
 - L'AI non sa de deve modificare solo il messaggio o anche l'UI per mostrarlo
 - L'AI non sa quali file deve analizzare, quindi potrebbe impiegare molto tempo ad esaminarli tutti prima di individuare quelli realmente coinvolti nella modifica.
 - L'AI non sa come vengono gestiti e visualizzati i ticket aperti, quindi dovrebbe capire autonomamente dove intervenire.
-- Non è definito quale comportamento ci si aspetta quando non sono presenti ticket aperti.
+- Non è definito quale messaggio debba essere mostrato all'utente quando non sono presenti ticket aperti.
 
 ## Ambiguità
 **Quale parola o richiesta può essere interpretata in più modi?**

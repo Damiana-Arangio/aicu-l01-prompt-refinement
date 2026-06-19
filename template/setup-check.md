@@ -44,6 +44,6 @@ Repository aperta correttamente. Sono presenti modifiche locali non ancora commi
 Se qualcosa non e' pronto, scrivi il blocco in una frase:
 
 ```txt
-Nessun blocco al momento.
+Nessun blocco riscontrato durante lo svolgimento dell'esercizio.
 ```
 
