@@ -22,4 +22,4 @@
 
 
 ## Zero-shot / Few-shot
-* Zero-shot: le istruzioni fornite sono sufficienti e non sono necessari esempi.
+- Zero-shot: le istruzioni fornite sono sufficienti e non sono necessari esempi.
