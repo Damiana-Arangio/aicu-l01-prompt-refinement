@@ -2,8 +2,8 @@
 
 ## Editor
 
-- Editor usato:
-- Riesco ad aprire la cartella del progetto: si / no / non ancora
+- Editor usato: VS Code
+- Riesco ad aprire la cartella del progetto: si 
 
 ## Git
 
@@ -16,7 +16,7 @@ git --version
 Risultato:
 
 ```txt
-...
+git version 2.50.1.windows.1
 ```
 
 ## Stato Repository
@@ -30,20 +30,20 @@ git status
 Risultato o nota:
 
 ```txt
-...
+Repository aperta correttamente. Sono presenti modifiche locali non ancora committate.
 ```
 
 ## Tool AI
 
-- Tool scelto:
-- Posso usarlo oggi: si / no / parziale
-- Fallback se non funziona:
+- Tool scelto: ChatGPT
+- Posso usarlo oggi: si 
+- Fallback se non funziona: Claude / Gemini
 
 ## Blocco Eventuale
 
 Se qualcosa non e' pronto, scrivi il blocco in una frase:
 
 ```txt
-...
+Nessun blocco al momento.
 ```
 
